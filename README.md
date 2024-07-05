@@ -1,4 +1,5 @@
 Here are few points of my PHP Project:
+
 •	In this PHP project when admin login through its username and password only admin gets access of employee and customer page.
 •	Only admin is allowed to go to employee page and add employee by filling the details of employee. 
 •	Once the admin fills out employee details and add employee then ab alert comes up. 
